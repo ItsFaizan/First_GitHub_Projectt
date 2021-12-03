@@ -5,7 +5,7 @@ public class First_File {
 		// TODO Auto-generated method stub
 		String name = "Faizan";
 		String rollno = "20i-1832";
-		System.out.println(",mdhfsdfksdfsdbfjsdbfgbsdfgbsdklgbsdjo " + name);
+		System.out.println("Name" + name);
 		System.out.println("RollNo: " + rollno);
 	}
 
